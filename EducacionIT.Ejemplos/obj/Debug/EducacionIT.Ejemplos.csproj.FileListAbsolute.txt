@@ -1,0 +1,6 @@
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\bin\Debug\EducacionIT.Ejemplos.exe.config
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\bin\Debug\EducacionIT.Ejemplos.exe
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\bin\Debug\EducacionIT.Ejemplos.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\obj\Debug\EducacionIT.Ejemplos.exe
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\obj\Debug\EducacionIT.Ejemplos.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\obj\Debug\EducacionIT.Ejemplos.csprojResolveAssemblyReference.cache

@@ -1,0 +1,53 @@
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.BLL.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.BLL.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csprojAssemblyReference.cache
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csproj.CoreCompileInputs.cache
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.BLL.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.BLL.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.DAL.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.DAL.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csproj.CopyComplete
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.BLL.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.BLL.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.DAL.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.DAL.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.BLL.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.BLL.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.DAL.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.DAL.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.DAL.dll.config
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.dll.config
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csprojAssemblyReference.cache
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csproj.CopyComplete
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\bin\Debug\Restaurante.BLL.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\bin\Debug\Restaurante.BLL.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\bin\Debug\Restaurante.DAL.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\bin\Debug\Restaurante.DAL.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\bin\Debug\Restaurante.DAL.dll.config
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\bin\Debug\Restaurante.Entity.dll.config
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csprojAssemblyReference.cache
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.csproj.CopyComplete
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.BLL\obj\Debug\Restaurante.BLL.pdb

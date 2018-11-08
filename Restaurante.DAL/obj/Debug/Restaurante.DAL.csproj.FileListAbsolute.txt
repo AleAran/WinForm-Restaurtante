@@ -1,0 +1,39 @@
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.csprojAssemblyReference.cache
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.Entity.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.Entity.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.csproj.CopyComplete
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.Entity.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.Entity.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.dll.config
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.dll.config
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.Entity.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.Entity.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\bin\Debug\Restaurante.Entity.dll.config
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.csprojAssemblyReference.cache
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.csproj.CopyComplete
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.dll.config
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\bin\Debug\Restaurante.DAL.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\bin\Debug\Restaurante.Entity.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\bin\Debug\Restaurante.Entity.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\bin\Debug\Restaurante.Entity.dll.config
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.csprojAssemblyReference.cache
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.csproj.CopyComplete
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.DAL\obj\Debug\Restaurante.DAL.pdb

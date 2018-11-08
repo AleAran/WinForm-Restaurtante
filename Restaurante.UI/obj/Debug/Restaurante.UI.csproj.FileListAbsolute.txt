@@ -1,0 +1,119 @@
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.exe.config
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.exe
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.BLL.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.BLL.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Properties.Resources.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.GenerateResource.Cache
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.exe
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FormPrincipal.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmEmpleado.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmListaEmpleados.resources
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.exe.config
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.exe
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.BLL.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.BLL.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FormPrincipal.resources
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmEmpleado.resources
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmListaEmpleados.resources
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Properties.Resources.resources
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.GenerateResource.cache
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.CoreCompileInputs.cache
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.CopyComplete
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.exe
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.DAL.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.DAL.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csprojAssemblyReference.cache
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.exe.config
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.exe
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.exe
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.BLL.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.DAL.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.BLL.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.DAL.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FormPrincipal.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmEmpleado.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmListaEmpleados.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Properties.Resources.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.GenerateResource.Cache
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmListaMesas.resources
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmMesa.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmListaMesas.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmMesa.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmAtencion.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmAtencionDetalle.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmPlatos.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmPlatoDetalle.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Controles.ListaEmpleados.resources
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Controles.SeleccionEmpleados.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.exe.config
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.exe
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.BLL.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.DAL.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.BLL.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.dll.config
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.DAL.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\bin\Debug\Restaurante.DAL.dll.config
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csprojAssemblyReference.cache
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Controles.ListaEmpleados.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Controles.SeleccionEmpleados.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FormPrincipal.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmAtencion.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmAtencionDetalle.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmEmpleado.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmListaEmpleados.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmListaMesas.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmMesa.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmPlatoDetalle.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmPlatos.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Properties.Resources.resources
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.GenerateResource.cache
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.CoreCompileInputs.cache
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.CopyComplete
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.exe
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.exe.config
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.exe
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.UI.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.BLL.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.DAL.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.BLL.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.Entity.dll.config
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.DAL.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\bin\Debug\Restaurante.DAL.dll.config
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csprojAssemblyReference.cache
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Controles.ListaEmpleados.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Controles.SeleccionEmpleados.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FormPrincipal.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmAtencion.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmAtencionDetalle.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmEmpleado.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmListaEmpleados.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmListaMesas.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmMesa.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmPlatoDetalle.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.FrmPlatos.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.Properties.Resources.resources
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.GenerateResource.cache
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.CoreCompileInputs.cache
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.csproj.CopyComplete
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.exe
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.UI\obj\Debug\Restaurante.UI.pdb

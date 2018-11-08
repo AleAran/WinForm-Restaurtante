@@ -1,0 +1,30 @@
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.csproj.CoreCompileInputs.cache
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.dll
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.pdb
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.dll
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.pdb
+C:\Users\SR585YE\Documents\_Never Backup\Andres\EducacionIT\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.csprojAssemblyReference.cache
+C:\Users\educacionit\Desktop\EducacionIT-Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.dll.config
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.dll.config
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.dll
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.pdb
+C:\Users\ale_a\Desktop\EducacionIT-Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.csprojAssemblyReference.cache
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.csprojAssemblyReference.cache
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.Entity\obj\Debug\Restaurante.Entity.pdb
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.dll.config
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.dll
+C:\Users\ale_a\Desktop\Restaurante\Restaurante.Entity\bin\Debug\Restaurante.Entity.pdb
