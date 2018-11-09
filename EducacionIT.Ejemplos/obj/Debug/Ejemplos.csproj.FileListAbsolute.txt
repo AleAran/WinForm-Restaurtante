@@ -1,7 +1,0 @@
-C:\Users\ale_a\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\bin\Debug\EducacionIT.Ejemplos.exe.config
-C:\Users\ale_a\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\bin\Debug\EducacionIT.Ejemplos.exe
-C:\Users\ale_a\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\bin\Debug\EducacionIT.Ejemplos.pdb
-C:\Users\ale_a\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\obj\Debug\Ejemplos.csprojAssemblyReference.cache
-C:\Users\ale_a\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\obj\Debug\Ejemplos.csproj.CoreCompileInputs.cache
-C:\Users\ale_a\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\obj\Debug\EducacionIT.Ejemplos.exe
-C:\Users\ale_a\Desktop\EducacionIT-Restaurante\EducacionIT.Ejemplos\obj\Debug\EducacionIT.Ejemplos.pdb
